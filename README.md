@@ -28,4 +28,4 @@ I have *a lot* of personal projects, with a good variety of different purposes; 
 6. Trails [in the Sky](https://sewer56.dev/Sewer56.Index/index-games/trails-in-the-sky/) / [of Cold Steel](https://sewer56.dev/Sewer56.Index/index-games/trails-of-cold-steel/)
 
 ## Connect with me 📬
-I always love meeting new people and discussing ideas. Feel free to reach out to me on [Twitter](https://twitter.com/Sewer56lol) or via my [website](https://sewer56.dev/Sewer56.Index/). Looking forward to connecting with you!
+I always love meeting new people and discussing ideas. Feel free to reach out to me on Discord (@sewer56) or GitHub (here!).
