@@ -20,12 +20,14 @@ I have *a lot* of personal projects, with a good variety of different purposes; 
 
 ### Games I've Worked With
 
-1. [FlatOut 2](https://sewer56.dev/Sewer56.Index/index-games/flatout-2/)
-2. [Persona 3/4/5 PC](https://sewer56.dev/Sewer56.Index/index-games/persona-3-4-5-pc/)
-3. [Shadow The Hedgehog](https://sewer56.dev/Sewer56.Index/index-games/shadow-the-hedgehog/)
-4. Sonic [Heroes](https://sewer56.dev/Sewer56.Index/index-games/sonic-heroes/) / [Riders](https://sewer56.dev/Sewer56.Index/index-games/sonic-riders/) / [3 A.I.R.](https://sewer56.dev/Sewer56.Index/index-games/sonic-3-angel-island-revisited/)
-5. [Tokyo Xanadu eX+](https://sewer56.dev/Sewer56.Index/index-games/tokyo-xanadu-ex/)
-6. Trails [in the Sky](https://sewer56.dev/Sewer56.Index/index-games/trails-in-the-sky/) / [of Cold Steel](https://sewer56.dev/Sewer56.Index/index-games/trails-of-cold-steel/)
+*In alphabetical order.*
+
+1. [FlatOut 2](https://sewer56.dev/Sewer56.Index/games/flatout-2/)
+2. [Persona 3/4/5 PC](https://sewer56.dev/Sewer56.Index/games/persona-3-4-5-pc/)
+3. [Shadow The Hedgehog](https://sewer56.dev/Sewer56.Index/games/shadow-the-hedgehog/)
+4. Sonic [Heroes](https://sewer56.dev/Sewer56.Index/games/sonic-heroes/) / [Riders](https://sewer56.dev/Sewer56.Index/games/sonic-riders/) / [3 A.I.R.](https://sewer56.dev/Sewer56.Index/games/sonic-3-angel-island-revisited/)
+5. [Tokyo Xanadu eX+](https://sewer56.dev/Sewer56.Index/games/tokyo-xanadu-ex/)
+6. Trails [in the Sky](https://sewer56.dev/Sewer56.Index/games/trails-in-the-sky/) / [of Cold Steel](https://sewer56.dev/Sewer56.Index/games/trails-of-cold-steel/)
 
 ## Connect with me 📬
 I always love meeting new people and discussing ideas. Feel free to reach out to me on Discord (@sewer56) or GitHub (here!).
