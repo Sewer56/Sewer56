@@ -2,7 +2,7 @@
 
 I'm an open source library author by day and a single-player game modder/reverse engineer by night. I began my journey in the world of development in 2012 with the Xperia Play, my first Android device. Since then, my passion for tinkering with both software and hardware has led me down an exciting path, from creating custom ROMs for better performance on hardware-constrained devices to reverse engineering game formats and contributing to a diverse range of open source projects.
 
-You can learn more about my stuff on [Sewer's Index](https://sewer56.dev/Sewer56.Index/).
+You can learn more about my stuff on [Sewer's Index](https://sewer56.dev/).
 
 ## My Journey 🛤️
 
@@ -14,20 +14,20 @@ Currently, I'm working at [Nexus Mods](https://www.nexusmods.com) as my day job,
 
 ## My Projects 🏗️
 
-I have *a lot* of personal projects, with a good variety of different purposes; you can find more information about them on [Sewer's Index](https://sewer56.dev/Sewer56.Index/); a neat visual representation of my stuff.  
+I have *a lot* of personal projects, with a good variety of different purposes; you can find more information about them on [Sewer's Index](https://sewer56.dev/); a neat visual representation of my stuff.  
 
-- [Software, Tools & Libraries](https://sewer56.dev/Sewer56.Index/index-libraries/)
+- [Software, Tools & Libraries](https://sewer56.dev/index-libraries.html)
 
 ### Some Games I've Worked With
 
 *In alphabetical order.*
 
-1. [FlatOut 2](https://sewer56.dev/Sewer56.Index/games/flatout-2/)
-2. [Persona 3/4/5 PC](https://sewer56.dev/Sewer56.Index/games/persona-3-4-5-pc/)
-3. [Shadow The Hedgehog](https://sewer56.dev/Sewer56.Index/games/shadow-the-hedgehog/)
-4. Sonic [Heroes](https://sewer56.dev/Sewer56.Index/games/sonic-heroes/) / [Riders](https://sewer56.dev/Sewer56.Index/games/sonic-riders/) / [3 A.I.R.](https://sewer56.dev/Sewer56.Index/games/sonic-3-angel-island-revisited/)
-5. [Tokyo Xanadu eX+](https://sewer56.dev/Sewer56.Index/games/tokyo-xanadu-ex/)
-6. Trails [in the Sky](https://sewer56.dev/Sewer56.Index/games/trails-in-the-sky/) / [of Cold Steel](https://sewer56.dev/Sewer56.Index/games/trails-of-cold-steel/)
+1. [FlatOut 2](https://sewer56.dev//games/flatout-2.html)
+2. [Persona 3/4/5 PC](https://sewer56.dev/games/persona-pc.html)
+3. [Shadow The Hedgehog](https://sewer56.dev/games/shadow-the-hedgehog.html)
+4. Sonic [Heroes](https://sewer56.dev/games/sonic-heroes.html) / [Riders](https://sewer56.dev/games/sonic-riders.html) / [3 A.I.R.](https://sewer56.dev/games/sonic-3-air.html)
+5. [Tokyo Xanadu eX+](https://sewer56.dev/games/tokyo-xanadu.html)
+6. Trails [in the Sky](https://sewer56.dev/games/trails-in-the-sky.html) / [of Cold Steel](https://sewer56.dev/games/cold-steel.html)
 
 ## Connect with me 📬
 I always love meeting new people and discussing ideas. Feel free to reach out to me on Discord (@sewer56) or GitHub (here!).
